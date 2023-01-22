@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC02 - Berhasil menuju ke menu buat akun dengan mengklik link buat akun yang ada di tampilan login - Positive</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>01a4ea01-26c4-4c5e-aa1c-51c1f3138cda</testCaseGuid>
-</TestCaseEntity>
