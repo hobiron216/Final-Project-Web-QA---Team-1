@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pay now (1)</name>
+   <tag></tag>
+   <elementGuidId>8b4dcdbd-0dee-45d5-9f8d-8b67371dfbba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.full.primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>951d1810-5cbd-4685-a912-f0250dc961f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8ff0a752-5a9b-4d76-86f0-46f5fcbdbaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn full primary</value>
+      <webElementGuid>bafb53f0-53c7-47eb-9b47-3f94b52f4faf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay now</value>
+      <webElementGuid>8946120d-a99d-423b-b837-ff6fc987c8ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;button-down&quot;]/button[@class=&quot;btn full primary&quot;]</value>
+      <webElementGuid>115360b2-a592-4c61-aefe-821ca9ee2f18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Beli Event/Page_Coding.ID - Cart/iframe_concat(id(, , snap-midtrans, , ))_po_cf77d6</value>
+      <webElementGuid>5f4d5f4f-772c-4a81-bca8-0449f9ce7acf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>114b284e-578f-4b4f-9f7a-bbce00f50df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/div[5]/button</value>
+      <webElementGuid>2a4b2f64-7003-4ab4-8c3b-c1d492c7c89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please make sure that there is no pop-up blocker on your browser.'])[1]/following::button[1]</value>
+      <webElementGuid>b8b9ee0a-d2be-4fad-95d8-4326c540ab75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction will be cancelled if the payment is not completed within 2 hours.'])[1]/following::button[1]</value>
+      <webElementGuid>c4ff6de4-6e35-4821-a52e-dd42ca038162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ea93d620-9095-45ff-bb69-0b5010f4ea4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pay now' or . = 'Pay now')]</value>
+      <webElementGuid>20990e12-8966-4d9e-b1d6-c1ba830075e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

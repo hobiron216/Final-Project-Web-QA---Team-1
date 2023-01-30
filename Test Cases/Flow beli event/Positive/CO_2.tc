@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mencari kata &quot;Machin&quot; pada kolom pencarian pada halam event</description>
+   <name>CO_2</name>
+   <tag>Search</tag>
+   <comment></comment>
+   <testCaseGuid>cecf6f8a-53a8-432e-9fe1-bed3e70e4c23</testCaseGuid>
+</TestCaseEntity>

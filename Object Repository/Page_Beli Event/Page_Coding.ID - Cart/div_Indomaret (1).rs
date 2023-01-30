@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Indomaret (1)</name>
+   <tag></tag>
+   <elementGuidId>832de8e4-6ccd-44d4-bfca-f9b8e0048522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application']/div/div[8]/a/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa2ff6fb-7d36-466e-a5b3-958abd1111e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-title text-actionable-bold</value>
+      <webElementGuid>39fd510d-5fb1-474e-911f-efe7c1f663be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indomaret</value>
+      <webElementGuid>cdb784bb-db50-4397-ae93-4d4d71e7db28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[8]/a[@class=&quot;list&quot;]/div[@class=&quot;list-content&quot;]/div[@class=&quot;list-title text-actionable-bold&quot;]</value>
+      <webElementGuid>51ba5ca7-ccd6-4915-a246-e380f34caeaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Beli Event/Page_Coding.ID - Cart/iframe_concat(id(, , snap-midtrans, , ))_po_3fc915</value>
+      <webElementGuid>2faf713c-dc95-406d-bd2d-2b07621ed823</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/div[8]/a/div/div</value>
+      <webElementGuid>b9ebf9ff-8e5a-4296-9a68-b788a5d5c46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danamon Online Banking'])[1]/following::div[7]</value>
+      <webElementGuid>8f59e6ee-2d12-4772-926c-5656dd6b29cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OCTO Clicks'])[1]/following::div[14]</value>
+      <webElementGuid>4cf3d86b-4b1e-45c8-a91a-8bb754c40dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akulaku PayLater'])[1]/preceding::div[6]</value>
+      <webElementGuid>9e003f03-fde7-4dfe-875c-f38581b0ed5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Indomaret']/parent::*</value>
+      <webElementGuid>ad4ecd4c-26e1-4906-b996-cf91c876b3e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a/div/div</value>
+      <webElementGuid>0534a109-6e03-465e-98ac-78d3953fe7d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Indomaret' or . = 'Indomaret')]</value>
+      <webElementGuid>48c69f0c-17e4-4309-bfa7-c9f7611af964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Virtual account numberLoading</name>
+   <tag></tag>
+   <elementGuidId>06ef53f7-d993-4d23-9734-741b29252cb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application']/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b4126c8-ff86-4c1f-b491-82b195e4b0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>payment-page-layout payment-page-text</value>
+      <webElementGuid>3bfa17c5-8a61-48a3-bdb3-fe5970a1a440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual account numberLoading...</value>
+      <webElementGuid>55ee80e3-b634-4270-8999-ca0b74d29391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application&quot;)/div[@class=&quot;page-container scroll&quot;]/div[@class=&quot;payment-page&quot;]/div[1]/div[@class=&quot;payment-page-layout payment-page-text&quot;]</value>
+      <webElementGuid>0949f67b-7947-4fb5-8f35-def4305ad81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Beli Event/Page_Coding.ID - Cart/iframe_concat(id(, , snap-midtrans, , ))_po_a43514</value>
+      <webElementGuid>34654249-ccaf-46e3-83d3-125d5c92942f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application']/div/div/div/div[3]</value>
+      <webElementGuid>93034e97-4c3e-4274-93e0-da9d645cfc7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete payment from BCA to the virtual account number below.'])[1]/following::div[1]</value>
+      <webElementGuid>43ea4b90-86cb-4fbe-a615-7b6e1f69111a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank BCA'])[1]/following::div[2]</value>
+      <webElementGuid>6df4197e-46d4-4140-8e0a-8e80d8da4a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]</value>
+      <webElementGuid>9169c6be-c6d1-4f9e-86dc-f2d0e9a3e4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Virtual account numberLoading...' or . = 'Virtual account numberLoading...')]</value>
+      <webElementGuid>fa3ad74a-10bf-4a43-a57c-c7bb858a97ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

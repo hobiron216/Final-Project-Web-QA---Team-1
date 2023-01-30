@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan event kedalam cart tanpa login</description>
+   <name>CO_3</name>
+   <tag>add to cart</tag>
+   <comment></comment>
+   <testCaseGuid>3ca2c2f2-e5ea-4432-ba91-a315251c64dc</testCaseGuid>
+</TestCaseEntity>

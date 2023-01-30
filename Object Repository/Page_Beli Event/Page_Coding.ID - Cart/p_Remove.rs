@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Remove</name>
+   <tag></tag>
+   <elementGuidId>766e1e26-e455-4282-beae-2c29927b2532</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cartForm']/div/div/div[3]/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1cc43540-cb72-4d7d-a9db-10de21ff254f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Remove </value>
+      <webElementGuid>3d4fbfff-e324-46db-8b42-792951c89eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartForm&quot;)/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/a[1]/p[1]</value>
+      <webElementGuid>e9eaf40f-3c9f-4ff7-a57e-bea1734eca91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cartForm']/div/div/div[3]/a/p</value>
+      <webElementGuid>9ab4ca55-789e-4657-a6e7-efad7dda140f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::p[3]</value>
+      <webElementGuid>054ec756-3378-416f-a94f-664ae7ef45f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::p[1]</value>
+      <webElementGuid>a334632a-e045-4ba3-84a0-5d83077eb685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 0'])[1]/preceding::p[1]</value>
+      <webElementGuid>2c5861b8-3915-49f5-b0c2-bbfd8ad736de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove']/parent::*</value>
+      <webElementGuid>4c4ff60f-2da8-4f99-aade-8dd2d322634b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/p</value>
+      <webElementGuid>bae3ef4d-2a02-4a4a-8619-db47b27e10dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+                                                    Remove ' or . = '
+                                                    Remove ')]</value>
+      <webElementGuid>c0918865-8232-46db-94ba-a3f1eed422c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cartForm']/div/div[2]/div[3]/a/p</value>
+      <webElementGuid>4dcd90b1-676f-40af-b5e4-92371b01aada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[2]/following::p[3]</value>
+      <webElementGuid>2d2a8959-544b-4917-8333-7ec57934b6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 85.000'])[3]/preceding::p[1]</value>
+      <webElementGuid>08ad7304-4b41-435a-b0c5-ff84fa4c8d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/a/p</value>
+      <webElementGuid>86e4e967-fe38-4ed6-a5d5-d2f128233717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 85.000'])[2]/preceding::p[1]</value>
+      <webElementGuid>5cecfca2-6026-483e-b060-664293218e13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

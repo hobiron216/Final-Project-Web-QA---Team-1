@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rp                                       _aed817</name>
+   <tag></tag>
+   <elementGuidId>eba0ec45-fcdd-4c68-a82d-ba57aafa846f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p > i.fas.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cartForm']/div/div/div[3]/a/p/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5930b257-478c-40cc-882b-e62991580473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-times</value>
+      <webElementGuid>34b7696d-ba7f-4ddf-a1b0-a146aa60d182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartForm&quot;)/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/a[1]/p[1]/i[@class=&quot;fas fa-times&quot;]</value>
+      <webElementGuid>f482b607-4fa2-4f16-9e05-1dbe592a293b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cartForm']/div/div/div[3]/a/p/i</value>
+      <webElementGuid>7da28784-3a34-4f9a-b6e5-44ab31698e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/i</value>
+      <webElementGuid>69acd03a-8d73-4d8a-8276-f88d6a6f6792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

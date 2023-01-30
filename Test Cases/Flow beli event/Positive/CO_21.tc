@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cekout dengan menggunakan metode pembayaran Akulaku Paylater</description>
+   <name>CO_21</name>
+   <tag>Checkout</tag>
+   <comment></comment>
+   <testCaseGuid>ed736594-c391-4550-874c-7d96415b11aa</testCaseGuid>
+</TestCaseEntity>
