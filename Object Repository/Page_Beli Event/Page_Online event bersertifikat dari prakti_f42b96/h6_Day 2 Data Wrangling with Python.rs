@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Day 2 Data Wrangling with Python</name>
+   <tag></tag>
+   <elementGuidId>b86ea4f5-f94e-49ec-a3a0-c9a6e820897d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='blockListEvent']/a/div/div[2]/div/h6)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>d3ba75a9-6e53-4b49-acce-74006afe5810</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bodyTitle</value>
+      <webElementGuid>792556b3-ac75-443a-a9cb-d172cee9a495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Day 2: Data Wrangling with Python
+                                                </value>
+      <webElementGuid>41a4c52e-ddb4-4489-84c5-4880a984592a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loopevent&quot;)/li[@id=&quot;blockListEvent&quot;]/a[1]/div[@class=&quot;cardOuter&quot;]/div[@class=&quot;blockBody&quot;]/div[@class=&quot;centerBodyTitle&quot;]/h6[@class=&quot;bodyTitle&quot;]</value>
+      <webElementGuid>e37edb03-a4e2-4715-8370-baca05cdf068</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//li[@id='blockListEvent']/a/div/div[2]/div/h6)[3]</value>
+      <webElementGuid>79b8b83d-13b4-445c-a374-d0c8707ad3d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mini Class'])[3]/following::h6[1]</value>
+      <webElementGuid>9e58c116-60a9-462d-ac14-66780686e6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLOSE'])[1]/following::h6[2]</value>
+      <webElementGuid>60c32c4a-8dc5-44e5-b879-dfed85fd6812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/div/div[2]/div/h6</value>
+      <webElementGuid>f427e0f2-7a8b-4bc4-b172-ed4bdb1d5040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Day 2: Data Wrangling with Python
+                                                ' or . = 'Day 2: Data Wrangling with Python
+                                                ')]</value>
+      <webElementGuid>9589e994-c568-4d5d-b266-28c1f1938633</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

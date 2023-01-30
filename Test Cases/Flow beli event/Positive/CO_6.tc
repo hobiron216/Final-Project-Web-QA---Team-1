@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menghapus salah satu item yang terdapat dapa keranjang</description>
+   <name>CO_6</name>
+   <tag>Cart</tag>
+   <comment></comment>
+   <testCaseGuid>a679d75d-d8b6-49a1-8666-b82247063e15</testCaseGuid>
+</TestCaseEntity>

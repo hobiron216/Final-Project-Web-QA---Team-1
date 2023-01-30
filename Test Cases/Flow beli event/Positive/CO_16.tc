@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cekout dengan menggunakan metode pembayaran ShopeePay</description>
+   <name>CO_16</name>
+   <tag>Checkout</tag>
+   <comment></comment>
+   <testCaseGuid>d5ab02b2-a6de-4861-abc3-7ef536b9cc12</testCaseGuid>
+</TestCaseEntity>

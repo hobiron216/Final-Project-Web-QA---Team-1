@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memilih salah satu dari dua item yang ada pada keranjang</description>
+   <name>CO_7</name>
+   <tag>Cart</tag>
+   <comment></comment>
+   <testCaseGuid>45fdd544-aa49-4611-a9c6-a0b749d0942a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cancel                                   _4e9978</name>
+   <tag></tag>
+   <elementGuidId>88b89ee6-be0d-44eb-a260-f055d2803925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cancelButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='cancelButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>401d20b7-721b-43ef-8a9f-8d6aaa39a9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>EVN30012300016/cancel</value>
+      <webElementGuid>6f65b9d7-4cb4-4ce3-978a-6f52a1646346</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-icon icon-left</value>
+      <webElementGuid>8bb4f271-0a73-40af-bba9-eb3537372358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cancelButton</value>
+      <webElementGuid>771daa3c-79f2-40e5-a5ce-91aa7bbe4c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cancel
+                                            Invoice</value>
+      <webElementGuid>be030441-d670-4b33-8a24-adfd3d4cb7f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cancelButton&quot;)</value>
+      <webElementGuid>868f2ed1-9ae6-4a11-a88c-841ed6091263</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='cancelButton']</value>
+      <webElementGuid>2f83bb82-57d0-43e8-860c-aacb466d2c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/section/div/div/div/div/div[3]/div[3]/div/ul/a[2]</value>
+      <webElementGuid>036ab1cf-be4e-497d-8a3c-6afc01e9f43e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cancel
+                                            Invoice')]</value>
+      <webElementGuid>f23e8c0a-c476-4128-89e1-78ddef4e1c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete your payment here :'])[1]/following::a[2]</value>
+      <webElementGuid>3b0ef20e-4e23-4f55-8c75-afe9a7a42291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Date :'])[1]/following::a[2]</value>
+      <webElementGuid>ba806e44-3616-4780-b33a-8be131d12188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Summary'])[1]/preceding::a[1]</value>
+      <webElementGuid>a7647ca3-64d1-4287-a30c-2eaa0c2fceff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All items here cannot be deleted'])[1]/preceding::a[1]</value>
+      <webElementGuid>325c5a82-5683-43df-907e-fb6777759287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'EVN30012300016/cancel')]</value>
+      <webElementGuid>53d0804a-8c6f-4daa-83a2-60766b9ea2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>76d9ebc4-1685-461b-8c14-96ef6e8478d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'EVN30012300016/cancel' and @id = 'cancelButton' and (text() = ' Cancel
+                                            Invoice' or . = ' Cancel
+                                            Invoice')]</value>
+      <webElementGuid>992ab95e-6ce5-467b-8e97-e6232b36472e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'EVN30012300015/cancel')]</value>
+      <webElementGuid>d9add184-9786-4c9b-9a70-693cd5fe2fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'EVN30012300015/cancel' and @id = 'cancelButton' and (text() = ' Cancel
+                                            Invoice' or . = ' Cancel
+                                            Invoice')]</value>
+      <webElementGuid>f027b478-0a9d-461a-b179-043cd4730253</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
