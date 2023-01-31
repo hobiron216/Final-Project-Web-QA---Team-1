@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Log_14 - Lupa kata sandi tanpa mengisi field email - Negative</name>
+   <name>Log_14 - Lupa kata sandi tanpa mengisi field email</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e63bd588-90cc-4b98-8e03-6fc90577d994</testCaseGuid>

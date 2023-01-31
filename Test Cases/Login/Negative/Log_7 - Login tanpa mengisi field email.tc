@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Log_7 - Login tanpa mengisi field email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7537590-9909-46a2-a367-7687b71fa9b2</testCaseGuid>
+</TestCaseEntity>
