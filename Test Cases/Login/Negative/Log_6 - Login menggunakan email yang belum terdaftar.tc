@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Log_6 - Login menggunakan email yang belum terdaftar - Negative</name>
+   <name>Log_6 - Login menggunakan email yang belum terdaftar</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ecbc4e78-f337-4340-840b-b3efc1c8a81c</testCaseGuid>
