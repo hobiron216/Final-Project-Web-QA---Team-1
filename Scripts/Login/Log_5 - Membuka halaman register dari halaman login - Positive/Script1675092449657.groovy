@@ -19,20 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://demo-app.online/')
 
-WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/a_Masuk'))
+WebUI.click(findTestObject('Page_Be a Profressional Talent with Coding.ID/button_Masuk_halaman_utama'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Email_email'), 'shahidsetiawan21@gmail.com ')
+WebUI.click(findTestObject('Object Repository/Login/link_Buat akun'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/input_Kata                                 _98da12'), 
-    'RigbBhfdqOBGNlJIWM1ClA==')
-
-WebUI.click(findTestObject('Object Repository/Page_Masuk untuk dapatkan akses di Coding.ID/button_Login'))
-
-WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/a'))
-
-WebUI.verifyTextPresent('Logout', false)
+WebUI.verifyTextPresent('Buat Akun Baru', false)
 
 WebUI.closeBrowser()
 

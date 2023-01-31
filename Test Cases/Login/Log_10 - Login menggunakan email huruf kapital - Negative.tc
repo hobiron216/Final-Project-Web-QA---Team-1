@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC04</name>
+   <name>Log_10 - Login menggunakan email huruf kapital - Negative</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>be5097b3-4139-4d0c-9f84-d277f3ae5b97</testCaseGuid>
+   <testCaseGuid>91285528-b3b3-4188-8af7-a528dac9cbd6</testCaseGuid>
 </TestCaseEntity>

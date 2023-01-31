@@ -17,3 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://demo-app.online/')
+
+WebUI.click(findTestObject('Object Repository/Page_Be a Profressional Talent with Coding.ID/button_Masuk_halaman_utama'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_Kata_sandi'), 
+    'RigbBhfdqOBGNlJIWM1ClA==')
+
+WebUI.click(findTestObject('Object Repository/Login/button_Login'))
+
+WebUI.verifyTextNotPresent('Logout', true)
+
+WebUI.closeBrowser()
+
