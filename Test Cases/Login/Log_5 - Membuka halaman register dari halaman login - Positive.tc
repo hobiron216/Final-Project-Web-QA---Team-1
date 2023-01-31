@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Log_5 - Membuka halaman register dari halaman login - Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01a4ea01-26c4-4c5e-aa1c-51c1f3138cda</testCaseGuid>
+</TestCaseEntity>
